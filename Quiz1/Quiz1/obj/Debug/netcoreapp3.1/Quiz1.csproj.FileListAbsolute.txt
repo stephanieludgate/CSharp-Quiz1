@@ -1,0 +1,13 @@
+C:\Users\steph\source\repos\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.exe
+C:\Users\steph\source\repos\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.deps.json
+C:\Users\steph\source\repos\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.runtimeconfig.json
+C:\Users\steph\source\repos\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.runtimeconfig.dev.json
+C:\Users\steph\source\repos\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.dll
+C:\Users\steph\source\repos\Quiz1\Quiz1\bin\Debug\netcoreapp3.1\Quiz1.pdb
+C:\Users\steph\source\repos\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.AssemblyInfoInputs.cache
+C:\Users\steph\source\repos\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.AssemblyInfo.cs
+C:\Users\steph\source\repos\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.dll
+C:\Users\steph\source\repos\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.pdb
+C:\Users\steph\source\repos\Quiz1\Quiz1\obj\Debug\netcoreapp3.1\Quiz1.genruntimeconfig.cache
